@@ -1,0 +1,14 @@
+.certificate-dot{
+    background-color:black;
+  width: 5px;
+  border-radius: 50%;
+  }
+  .certificate-big-text{
+    width: 1000px;
+    margin-top: 80px;
+    margin-bottom: -20px;
+  }
+  .certificate-big-text>h3{
+    font-size: 80px;
+    margin-left: 100px;
+  }

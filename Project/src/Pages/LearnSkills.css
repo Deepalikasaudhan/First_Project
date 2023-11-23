@@ -1,0 +1,187 @@
+.learn-dot{
+    background-color:black;
+  width: 5px;
+  border-radius: 50%;
+  }
+  .learn-big-text{
+    width: 1000px;
+    margin-top: 80px;
+    margin-bottom: -20px;
+  }
+  .learn-big-text>h3{
+    font-size: 80px;
+    margin-left: 100px;
+    
+   
+  }
+  .learn-three-button{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    
+  
+  }
+  .learn-button-left{
+    background-color: rgb(191, 191, 191);
+    display: inline-block;
+    width: 330px;
+    height: 80px;
+    border-radius: 30px;
+    
+    
+  
+  }
+  .learn-button-right{
+    width: 330px;
+    border-radius: 55px;
+    height: 80px;
+    background-color: rgb(191, 191, 191);
+    display: inline-block; 
+    
+    
+  }
+  .learn-button-connar{
+    width: 330px;
+    border-radius: 55px;
+    height: 80px;
+    background-color: rgb(191, 191, 191);
+    display: inline-block; 
+  
+  }
+  .learn-button-right>p{
+    font-size: 35px;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+    margin-top: 18px;
+    margin-left: 60px;
+  }
+  .learn-button-left>p{
+    font-size: 35px;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+    margin-top: 18px;
+    margin-left: 60px;
+  }
+
+  .learn-button-connar>p{
+    font-size: 35px;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+    margin-top: 18px;
+    margin-left: 60px;
+  }
+
+  .skill-three-button{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin:auto;
+    
+  
+  }
+  .skill-button-left{
+    background-color: rgb(191, 191, 191);
+    display: inline-block;
+    width: 330px;
+    height: 80px;
+    border-radius: 30px;
+    
+    margin-top: 40px;
+    
+  
+  }
+  .skill-button-right{
+    width: 330px;
+    border-radius: 55px;
+    height: 80px;
+    background-color: rgb(191, 191, 191);
+    display: inline-block; 
+    margin-top: 40px;
+    
+    
+  }
+  .skill-button-connar{
+    width: 330px;
+    border-radius: 55px;
+    height: 80px;
+    background-color: rgb(191, 191, 191);
+    display: inline-block;
+    margin-top: 40px; 
+  
+  }
+  .skill-button-right>p{
+    font-size: 35px;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+    margin-top: 18px;
+    margin-left: 60px;
+  }
+  .skill-button-left>p{
+    font-size: 35px;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+    margin-top: 18px;
+    margin-left: 60px;
+  }
+
+  .skill-button-connar>p{
+    font-size: 35px;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+    margin-top: 18px;
+    margin-left: 60px;
+  }
+
+
+  .left1{
+    border: 1px solid blue;
+    width: 450px;
+    height: 550px;
+    margin: 60px;
+    margin-top: 250px;
+  }
+  .left1>img{
+    margin-left: 220px;
+    margin-bottom: 150px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: antiquewhite;
+  }
+  
+  
+  
+  .right1{
+    border: 1px solid blue;
+    width: 450px;
+    height: 500;
+    margin: 150px;
+    /* margin-bottom: 500px; */
+  }
+  
+  .right1>img{
+    margin-left: 220px;
+    margin-bottom: 150px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: antiquewhite;
+  }
+  
+  .use-container>h1{
+    margin-top: 200px;
+    margin-left: 550px;
+    margin-right: 400px;
+    font-size: 50px;
+
+  }
+  
+  
+  

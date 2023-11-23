@@ -1,0 +1,76 @@
+.startup-dot{
+    background-color:black;
+  width: 5px;
+  border-radius: 50%;
+  }
+  .startup-big-text{
+    width: 1000px;
+    margin-top: 80px;
+    margin-bottom: -10px;
+  }
+  .startup-big-text>h3{
+    font-size: 80px;
+    margin: 70px;
+    margin-left: 100px;
+    
+}
+.startup-three-button{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    
+  
+  }
+  .startup-button-left{
+    background-color: rgb(191, 191, 191);
+    display: inline-block;
+    width: 150px;
+    height: 60px;
+    border-radius: 30px;
+    
+    
+  
+  }
+  .startup-button-right{
+    width: 150px;
+    border-radius: 55px;
+    height: 60px;
+    background-color: rgb(191, 191, 191);
+    display: inline-block; 
+    
+    
+  }
+  .startup-button-connar{
+    width: 150px;
+    border-radius: 55px;
+    height: 60px;
+    background-color: rgb(191, 191, 191);
+    display: inline-block; 
+  
+  }
+  .startup-button-right>p{
+    font-size: 35px;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+    margin-top: 18px;
+    margin-left: 60px;
+  }
+  .startup-button-left>p{
+    font-size: 35px;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+    margin-top: 18px;
+    margin-left: 60px;
+  }
+
+  .startup-button-connar>p{
+    font-size: 35px;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+    margin-top: 18px;
+    margin-left: 60px;
+  }

@@ -1,0 +1,45 @@
+.guide-dot{
+    background-color:black;
+  width: 5px;
+  border-radius: 50%;
+  }
+  .guide-big-text{
+    width: 1000px;
+    margin-top: 80px;
+    margin-bottom: -20px;
+  }
+  .guide-big-text>h3{
+    font-size: 80px;
+    margin-left: 100px;
+    
+   
+  }
+
+  .guide-image-left>img{
+    width: 500px;
+    margin-left: 100px;
+    margin-bottom: -20px;
+    margin-top: 80px;
+  }
+  .guide-image-left>img{
+    width: 500px;
+    margin-left: 20px;
+    margin-bottom: -20px;
+    margin-top: 80px;
+  }
+  .left{
+    border: 1px solid blue;
+    width: 450px;
+    height: 550px;
+    margin: 60px;
+    margin-top: 250px;
+  }
+  .left>img{
+    margin-left: 220px;
+    margin-bottom: 150px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: antiquewhite;
+  }
+  
